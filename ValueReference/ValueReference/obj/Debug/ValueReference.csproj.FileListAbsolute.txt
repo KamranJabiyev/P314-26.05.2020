@@ -1,0 +1,6 @@
+E:\P314\ValueReference\ValueReference\bin\Debug\ValueReference.exe.config
+E:\P314\ValueReference\ValueReference\bin\Debug\ValueReference.exe
+E:\P314\ValueReference\ValueReference\bin\Debug\ValueReference.pdb
+E:\P314\ValueReference\ValueReference\obj\Debug\ValueReference.csprojAssemblyReference.cache
+E:\P314\ValueReference\ValueReference\obj\Debug\ValueReference.exe
+E:\P314\ValueReference\ValueReference\obj\Debug\ValueReference.pdb
